@@ -28,7 +28,8 @@ With [Lord Psyan Patches](https://bitbucket.org/technotim/lordpsyan-patches)
 ## SQL Scripts
 Included in `sql/custom`
 
-* Portal Master [rochet2](http://rochet2.github.io/Portal-Master.html) 
+* Portal Master [rochet2](http://rochet2.github.io/Portal-Master.html)
+* Reforging NPC [rochet2](http://rochet2.github.io/Reforging.html)
 
 ## Build
 [Windows Requirements](https://trinitycore.atlassian.net/wiki/spaces/tc/pages/10977296/Windows+Requirements
