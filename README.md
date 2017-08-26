@@ -26,6 +26,11 @@ With [Lord Psyan Patches]
 * Login BoA
 * Start Guild
 
+## SQL Scripts
+Included in `sql/custom`
+
+* Portal Master
+
 ## Build
 [Windows Requirements]
 (https://trinitycore.atlassian.net/wiki/spaces/tc/pages/10977296/Windows+Requirements
