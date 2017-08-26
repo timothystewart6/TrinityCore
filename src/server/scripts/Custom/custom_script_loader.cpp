@@ -92,7 +92,8 @@
 // start74
 // start75
 // start76
-// start77
+// Start Guild
+    void AddSC_gon_playerscripts();
 // start78
 // start79
 // start80
@@ -104,11 +105,13 @@
 // start86
 // start87
 // start88
-// start89
+// Account Mounts
+void AddSC_accontmounts();
 // start90
 // start91
 // start92
-// start93
+// Announce Login
+void AddSC_announce_login();
 // start94
 // start95
 // start96
@@ -133,7 +136,8 @@
 // start115
 // start116
 // start117
-// start118
+// Auto Learn Spells
+void AddSC_LearnSpellsOnLevelUp();
 // start119
 // start120
 // start121
@@ -150,7 +154,8 @@
 // start132
 // start133
 // start134
-// start135
+// Login BoA
+void AddSC_Player_Boa();
 // start136
 // start137
 // start138
@@ -312,7 +317,8 @@ void AddCustomScripts()
 // end74
 // end75
 // end76
-// end77
+// Start Guild
+    AddSC_gon_playerscripts();
 // end78
 // end79
 // end80
@@ -324,11 +330,13 @@ void AddCustomScripts()
 // end86
 // end87
 // end88
-// end89
+// Account Mount
+    AddSC_accontmounts();
 // end90
 // end91
 // end92
-// end93
+// Announce Login
+    AddSC_announce_login();
 // end94
 // end95
 // end96
@@ -353,7 +361,8 @@ void AddCustomScripts()
 // end115
 // end116
 // end117
-// end118
+// Auto Learn Spells
+    AddSC_LearnSpellsOnLevelUp();
 // end119
 // end120
 // end121
@@ -370,7 +379,8 @@ void AddCustomScripts()
 // end132
 // end133
 // end134
-// end135
+// Login BoA
+    AddSC_Player_Boa();
 // end136
 // end137
 // end138
