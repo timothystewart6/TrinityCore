@@ -28,7 +28,7 @@ With [Lord Psyan Patches](https://bitbucket.org/technotim/lordpsyan-patches)
 ## SQL Scripts
 Included in `sql/custom`
 
-* Portal Master
+* Portal Master [rochet2](http://rochet2.github.io/Portal-Master.html) 
 
 ## Build
 [Windows Requirements]
