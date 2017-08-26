@@ -6,7 +6,7 @@ For more informations please go here: [thesawolf New NPC Bots Readme](https://gi
 
 ## Trinity Core
 
-This source is based on [TrinityCore Revision 330e5b0](https://github.com/TrinityCore/TrinityCore/commit/330e5b0ebcc6753a355afc3824121c5eba1bf5bc)
+This source is based on [TrinityCore Revision 330e5b0(https://github.com/TrinityCore/TrinityCore/commit/330e5b0ebcc6753a355afc3824121c5eba1bf5bc)
 
 ## New NPC Bots Source from martin26
 
@@ -31,8 +31,7 @@ Included in `sql/custom`
 * Portal Master [rochet2](http://rochet2.github.io/Portal-Master.html) 
 
 ## Build
-[Windows Requirements]
-(https://trinitycore.atlassian.net/wiki/spaces/tc/pages/10977296/Windows+Requirements
+[Windows Requirements](https://trinitycore.atlassian.net/wiki/spaces/tc/pages/10977296/Windows+Requirements
 )
 
 * Visual Studio 2017 (x64)
