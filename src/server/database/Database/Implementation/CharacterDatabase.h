@@ -531,6 +531,43 @@ enum CharacterDatabaseStatements
     CHAR_UPD_QUEST_TRACK_ABANDON_TIME,
 
     CHAR_INS_DESERTER_TRACK,
+    // Prepatch by LordPsyan
+    // 01
+    // 02
+    // 03
+    // 04
+    // 05
+    // 06
+    // New NPCBots
+    CHAR_SEL_NPCBOTS,
+    CHAR_SEL_NPCBOT_OWNER,
+    CHAR_UPD_NPCBOT_OWNER,
+    CHAR_UPD_NPCBOT_OWNER_ALL,
+    CHAR_SEL_NPCBOT_ROLES,
+    CHAR_UPD_NPCBOT_ROLES,
+    CHAR_SEL_NPCBOT_EQUIP,
+    CHAR_SEL_NPCBOT_EQUIP_BY_ITEM_INSTANCE,
+    CHAR_UPD_NPCBOT_EQUIP,
+    CHAR_DEL_NPCBOT,
+    CHAR_INS_NPCBOT,
+    CHAR_UPD_NPCBOT_FACTION,
+    CHAR_SEL_NPCBOT_FACTION,
+    // 08
+    // 09
+    // 10
+    // 11
+    // 12
+    // 13
+    // 14
+    // 15
+    // 16
+    // 17
+    // 18
+    // 19
+    // 20
+    // Visit http://www.realmsofwarcraft.com/bb for forums and information
+    //
+    // End of prepatch
 
     MAX_CHARACTERDATABASE_STATEMENTS
 };
