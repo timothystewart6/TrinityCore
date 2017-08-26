@@ -30,6 +30,7 @@ Included in `sql/custom`
 
 * Portal Master [rochet2](http://rochet2.github.io/Portal-Master.html)
 * Reforging NPC [rochet2](http://rochet2.github.io/Reforging.html)
+* Transmogrification NPM [rochet2](http://rochet2.github.io/Transmogrification.html)
 
 ## Build
 [Windows Requirements](https://trinitycore.atlassian.net/wiki/spaces/tc/pages/10977296/Windows+Requirements
