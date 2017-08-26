@@ -16,8 +16,7 @@ This source is based on [TrinityCore Revision 330e5b0](https://github.com/Trinit
 With [NewNPC Bots f7936eb9](https://github.com/martin26/NewNPCBots/commit/f7936eb9ea332c45146c59810f7d0d6bd3313308)
 
 ## Lord Psyan Patches
-With [Lord Psyan Patches]
-(https://bitbucket.org/technotim/lordpsyan-patches)
+With [Lord Psyan Patches](https://bitbucket.org/technotim/lordpsyan-patches)
 
 * Start Guild
 * Auto Learn New Spells
