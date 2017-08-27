@@ -26,6 +26,19 @@ With [Lord Psyan Patches](https://bitbucket.org/technotim/lordpsyan-patches)
 * Start Guild
 
 ## SQL Scripts
+
+### world_db
+You will need to use [TDB 335.61](https://github.com/TrinityCore/TrinityCore/releases/tag/TDB335.61)
+
+Not sure this is necessary but here is the order in which to apply database scripts:
+
+* create
+* base
+* world (full, above)
+* updates
+* custom
+
+### custom
 Included in `sql/custom`
 
 * Portal Master [rochet2](http://rochet2.github.io/Portal-Master.html)
